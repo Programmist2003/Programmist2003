@@ -12,3 +12,4 @@
   <img src="![image](https://github.com/Programmist2003/Programmist2003/assets/159609886/1851e516-ef90-442f-af8a-6f1a4f564fbf)">### <a>https://discord.com/channels/1209880526211514440</a>
   <img src="![image](https://github.com/Programmist2003/Programmist2003/assets/159609886/14438d55-9518-486b-8240-84d2ab1fd317)"> #### <a>https://web.telegram.org/k/#@Ulianasas</a>
 </span>
+![61beb0d231df746db0866f7db4acfc6b](https://github.com/Programmist2003/Programmist2003/assets/159609886/da521b00-ecbc-4ba1-aede-f02c735c0d07)
