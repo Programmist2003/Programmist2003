@@ -1,5 +1,5 @@
 # Hi there, I'm Uliana ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-###  student Information system and programmer, Fullstack devoper Russia 🇷🇺
+###  student Information system and programmer, Fullstack devoper Russia <img src="https://emojisup.org/images/emoji/apple/ios-15-4/flag-russia@2x.png">
 I use languages such as:  
 | Rank | Languages |
 |-----:|-----------|
