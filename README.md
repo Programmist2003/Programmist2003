@@ -3,6 +3,6 @@
 <h3 align="center">Computer science student, IT Frontend from Russia 🇷🇺</h3>
 <h1 align="center">My social media</h1> 
 <span>
-  <a>https://web.telegram.org/k/#@Ulianasas</a>
-  <a>https://discord/1209880526211514440</a>
+  <a fa="telegram">https://web.telegram.org/k/#@Ulianasas</a>
+  <a fa="discord">https://discord/1209880526211514440</a>
 </span>
