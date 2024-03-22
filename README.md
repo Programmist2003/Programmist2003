@@ -8,7 +8,8 @@ I use languages such as:
 |     3| <i class="fa fa-Javascript"> JS  |
 |     4| <i class="fa fa-Node JS">Node JS |
 |     5| <i class="fa fa-Pixco"> Pixco    |
-
+|     6| <i class="fa fa-Dart">Dart       |
+|     7| <i class="fa fa-Kotlin">Kotlin   |
 
 Communication with me:
 My discord [Discord Pages](https://discord.com/channels/1209880526211514440).
